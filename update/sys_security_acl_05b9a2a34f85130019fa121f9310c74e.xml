@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_186215_airlines_flights</description>
+        <name>x_186215_airlines_flights</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-31 00:47:58</sys_created_on>
+        <sys_id>05b9a2a34f85130019fa121f9310c74e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_186215_airlines_flights</sys_name>
+        <sys_package display_value="Airlines  Feedback" source="x_186215_airlines">f4b9aa634f85130019fa121f9310c7f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Airlines  Feedback">f4b9aa634f85130019fa121f9310c7f4</sys_scope>
+        <sys_update_name>sys_security_acl_05b9a2a34f85130019fa121f9310c74e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-31 00:47:58</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
